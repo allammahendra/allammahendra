@@ -1,54 +1,49 @@
-<h1 align="center">Hi 👋, I'm Mohammed Rahman</h1>
+<h1 align="center">Hi 👋, I'm allammahendra</h1>
 <h3 align="center">A passionate Applied AI/ML Engineer from India.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohammed-rahman26&label=Profile%20views&color=0e75b6&style=flat" alt="mohammed-rahman26" />
+  <img src="https://komarev.com/ghpvc/?username=allammahendra&label=Profile%20views&color=0e75b6&style=flat" alt="allammahendra" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohammed-rahman26" alt="mohammed-rahman26" />
+    <img src="https://github-profile-trophy.vercel.app/?username=allammahendra" alt="allammahendra" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/mohammed260425" target="blank">
-    <img src="https://img.shields.io/twitter/follow/mohammed260425?logo=twitter&style=for-the-badge" alt="mohammed260425" />
+  <a href="https://twitter.com/mrmahee28" target="blank">
+    <img src="https://img.shields.io/twitter/follow/mrmahee28?logo=twitter&style=for-the-badge" alt="mrmahee28" />
   </a>
 </p>
 
-- 🔭 I’m currently working on *printf project.*
+- 🔭 I’m currently working on *....*
 
 - 🌱 I’m currently learning *DSA and exploring other languages.*
 
-- 🤝 I’m looking for help with *printf project.*
-
 - 💬 Ask me about *frontend, backend, frameworks, database, computer networks, coding environments, technologies, coding languages.*
 
-- 📫 How to reach me *26rahman2004@gmail.com*
+- 📫 How to reach me *allamdurgamahendra@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/mohammed260425" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammed260425" height="30" width="40" />
+  <a href="https://twitter.com/mrmahee28" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrmahee28" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/mohammed rahman" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed rahman" height="30" width="40" />
+  <a href="https://linkedin.com/in/Allam Durga Mahendra" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Allam Durga Mahendra" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/mohammedrahman2604" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammedrahman2604" height="30" width="40" />
+  <a href="https://kaggle.com/allam durha mahendra" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="allam durga mahendra" height="30" width="40" />
   </a>
-  <a href="https://fb.com/rahman mohammed" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahman mohammed" height="30" width="40" />
+  <a href="https://fb.com/Mahindra Mahi Allam" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mahindra Mahi Allam" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/__xx.munna.xx__" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_xx.munna.xx_" height="30" width="40" />
+  <a href="https://instagram.com/__mr._.mahi__" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mr._.mahi__" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/techandtechnicals" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techandtechnicals" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/mohammed_rahman" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammed_rahman" height="30" width="40" />
+  <a href="https://www.leetcode.com/allammahendra" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="allammahendra" height="30" width="40" />
   </a>
 </p>
 
@@ -78,8 +73,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-rahman26&show_icons=true&locale=en&layout=compact" alt="mohammed-rahman26" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allammahendra&show_icons=true&locale=en&layout=compact" alt="allammahendra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-rahman26&show_icons=true&locale=en" alt="mohammed-rahman26" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allammahendra&show_icons=true&locale=en" alt="allammahendra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-rahman26&" alt="mohammed-rahman26" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allammahendra&" alt="allammahendra" /></p>
